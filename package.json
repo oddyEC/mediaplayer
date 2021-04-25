@@ -1,7 +1,6 @@
 {
-  "name": "@oddyEC/mediaplayer",
+  "name": "oddyecmediaplayer",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -12,5 +11,17 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.2.4"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddyEC/mediaplayer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oddyEC/mediaplayer/issues"
+  },
+  "homepage": "https://github.com/oddyEC/mediaplayer#readme",
+  "description": ""
 }
